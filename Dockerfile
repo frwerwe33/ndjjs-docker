@@ -1,1 +1,1 @@
-FROM daxia2023/doc:nginxw
+FROM daxia2023/doc:nodejs-wanju
