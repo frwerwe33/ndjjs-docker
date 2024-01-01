@@ -1,4 +1,4 @@
-FROM daxia2023/doc:ndjs-neser-cho
+FROM daxia2023/doc:ndjs-neser-cho2
 RUN apk update \
     && apk add --no-cache shadow \
     && useradd -m pn -u 10016 \
