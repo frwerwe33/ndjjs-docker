@@ -1,1 +1,1 @@
-FROM uspls/do:ndjs
+FROM uspls/do:node-dingyue
